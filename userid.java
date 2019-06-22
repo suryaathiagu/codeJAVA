@@ -62,6 +62,12 @@ class userid
     }
 }
 
-
+/*Runtime Input : 
+Rajiv
+Roy
+560037
+6
+Output : 
+YrAJIV75 */
 
 
